@@ -1,0 +1,16 @@
+.icon-alert{
+    height: 10%;
+    width: 10%;
+}
+.text-alert{
+    color: black;
+}
+.box{
+    width: 30%;
+    height: 30%;
+    background-color: rgb(107, 24, 18);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(107, 24, 18);;
+}
